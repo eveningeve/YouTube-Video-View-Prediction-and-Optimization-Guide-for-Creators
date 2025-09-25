@@ -26,9 +26,8 @@ Provide actionable insights to guide YouTube creators in optimizing their video 
 
   * Publish time of each video
   * Views per video
-  * Likes per video
-  * (Planned) Number of subscribers per channel
-  * (Planned) Video category
+  * Number of subscribers per channel
+  * Video category
 
 Note: The YouTube API allows up to 10,000 rows of data per account per day.
 
